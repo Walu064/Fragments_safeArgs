@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_this_is_first_fragment">Hello! This is first fragment!</string>
+    <string name="hello_this_is_second_fragment">Hello! This is second fragment!</string>
+    <string name="hello1">Hello1</string>
+    <string name="hello2">Hello2</string>
+    <string name="hello_this_is_secondd_fragment">Hello, this is second fragment :)</string>
+    <string name="hello_this_is_first_fragmentt">Hello, this is first fragment :)</string>
+    <string name="wprowad_imi_w_polu_poni_ej">Wprowadź imię w polu poniżej:</string>
+    <string name="name">Name</string>
+    <string name="prze_lij_imi_do_kolejnego_fragmentu">Prześlij imię do kolejnego fragmentu</string>
+    <string name="kliknij_by_przes_a_imi_do_kolejnego_fragmentu">Kliknij, by przesłać imię do kolejnego fragmentu :)</string>
+    <string name="mi_o_ci_widzie">Miło Cię widzieć,</string>
+    <string name="textview">TextView</string>
+    <string name="kliknij_by_wr_ci_do_poprzedniego_fragmentu">Kliknij, by wrócić do poprzedniego fragmentu.</string>
+</resources>
